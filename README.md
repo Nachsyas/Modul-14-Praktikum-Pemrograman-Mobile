@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# Modul-13-Prak.-Mobile-Programming
-=======
-# Modul-6-Prak.-Mobile-Programming
->>>>>>> f6c97aacd8b2b94126bc99ac2226371564080739
+# Modul-14-Prak.-Mobile-Programming
 
 A new Flutter project for Mobile Programming practical work.
 
